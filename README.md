@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Web Development
-- 👯 I’m looking to collaborate on Projects
 - 📫 How to reach me: bloched_ears@hotmail.com
-- ⚡ Fun fact: I am deaf
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
