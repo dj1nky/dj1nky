@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Web Development
-- 📫 How to reach me: bloched_ears@hotmail.com
+:guitar: I'm truly passionate about web development and love bringing ideas to life through coding. My focus is on creating intuitive and seamless user experiences while ensuring that my code is clean, maintainable, and scalable. I enjoy staying up-to-date with the latest web technologies and always strive to improve my skills.
+
+:envelope: Email: bloched_ears@hotmail.com <br>
+:blue_book: LinkedIn: https://www.linkedin.com/in/dyllan-bloch-b8540593/
+
+:computer: Feel free to get in touch with me if you have any inquiries, collaboration opportunities, or just to say hello! I'm open to new projects and always excited to contribute to impactful web development ventures.
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
