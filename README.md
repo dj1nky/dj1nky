@@ -5,8 +5,6 @@
 :envelope: Email: bloched_ears@hotmail.com <br>
 :blue_book: LinkedIn: https://www.linkedin.com/in/dyllan-bloch-b8540593/
 
-:computer: Feel free to get in touch with me if you have any inquiries, collaboration opportunities, or just to say hello! I'm open to new projects and always excited to contribute to impactful web development ventures.
-
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
